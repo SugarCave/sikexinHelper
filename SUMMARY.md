@@ -7,3 +7,7 @@
       * [第一题](chapter1/di-yi-zhang/di-yi-jie/di-yi-ti.md)
 * [故事一](gu-shi-yi.md)
 
+## 故事二
+
+* [第二章](di-er-zhang.md)
+
