@@ -15,9 +15,9 @@
 
 ## 故事三
 
-* 第三章
+* [第三章](gu-shi-san/di-san-zhang.md)
 
 ## 故事四
 
-* 第四章
+* [第四章](gu-shi-si/di-si-zhang.md)
 
